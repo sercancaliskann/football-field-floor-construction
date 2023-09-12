@@ -1,0 +1,104 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    background-color: red;
+}
+
+#stadium{
+    border: 2px solid white;
+    background-color: green;
+    margin-top: 75px;
+    width: 400px;
+    height: 600px;
+}
+
+.kale1{
+    border: 1px solid white;
+    width: 80px;
+    height: 40px;
+    margin-left: 170px;
+}
+
+.kale2{
+    border: 1px solid white;
+    width: 180px;
+    height: 90px;
+    margin-left: 120px;
+    margin-top: -40px;
+}
+
+.kale3{
+    border: 1px solid white;
+    width: 80px;
+    height: 40px;
+    margin-left: 170px;
+    margin-top: 467px;
+    }
+
+    .kale4{
+        border: 1px solid white;
+        width: 180px;
+        height: 90px;
+        margin-left: 120px;
+        margin-top: -90px;
+    }
+
+    .orta-saha{
+        border: 1px solid white;
+        width: 400px;
+        height: 2px;
+        background-color: white;
+        margin-top: -315px;
+    }
+
+    .ortasaha1{
+        border: 1px solid white;
+        width: 150px;
+        height: 75px;
+        margin-top: -38px;
+        margin-left: 129px;
+        border-radius: 60%;
+    }
+
+    .penalti-noktasi1{
+    width: 7px; /* Noktanın genişliği */
+    height: 7px; /* Noktanın yüksekliği */
+    background-color: white; /* Nokta rengi */
+    border-radius: 50%; /* Border yarıçapı ayarlanarak nokta şekli elde edilir */
+    margin-left: 52%;
+    margin-top: 195px;
+    }
+
+    .penalti-noktasi2{
+        width: 7px; /* Noktanın genişliği */
+        height: 7px; /* Noktanın yüksekliği */
+        background-color: white; /* Nokta rengi */
+        border-radius: 50%; /* Border yarıçapı ayarlanarak nokta şekli elde edilir */
+        margin-left: 52%;
+        margin-top: -452px;
+        }
+
+        .cezayayi1{
+            border: 1px solid white;
+            width: 80px;
+            height: 20px;
+            margin-top: 12px;
+            margin-left: 170px;
+            border-radius: 0px 0px 90% 90%;
+        }
+
+        .cezayayi2{
+            border: 1px solid white;
+            width: 80px;
+            height: 20px;
+            margin-top: 377px;
+            margin-left: 170px;
+            border-radius: 90% 90% 0px 0px;
+        }
